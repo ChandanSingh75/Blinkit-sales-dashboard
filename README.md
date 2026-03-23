@@ -62,7 +62,7 @@ This project focuses on analyzing Blinkit sales data to uncover key business ins
 
 ## 📂 Files Included
 - Blinkit Dashboard.pbix
-- Dataset.xlsx
+- BlinkIT Grocery Dataset.xlsx
 
 ---
 
